@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b2338a-93eb-4226-adba-e015740f602a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SelemiumTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/LaunchBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/Maximize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/Navigate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01HW/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/WebOrderTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/locatingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/tagName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/webOrderTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +47,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Amazon">
+  <component name="RunManager" selected="Application.WebOrderTask2">
     <configuration name="Amazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01HW.Amazon" />
       <module name="SelemiumTest" />
@@ -64,20 +57,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LaunchBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.LaunchBrowser" />
-      <module name="SelemiumTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SelemiumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,12 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Navigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.Navigate" />
+    <configuration name="WebOrderTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.WebOrderTask2" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="locatingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.locatingElements" />
+      <module name="SelemiumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="webOrderTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.webOrderTask" />
+      <module name="SelemiumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WebOrderTask2" />
+        <item itemvalue="Application.webOrderTask" />
+        <item itemvalue="Application.locatingElements" />
         <item itemvalue="Application.Amazon" />
         <item itemvalue="Application.Maximize" />
-        <item itemvalue="Application.Navigate" />
-        <item itemvalue="Application.LaunchBrowser" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
