@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b2338a-93eb-4226-adba-e015740f602a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class02/WebOrderTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/locatingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/tagName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/webOrderTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02HW/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02HW/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/WebOrderTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02/WebOrderTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/tagName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02/tagName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +47,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WebOrderTask2">
-    <configuration name="Amazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01HW.Amazon" />
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02HW.Task1" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01HW.*" />
+          <option name="PATTERN" value="class02HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.Maximize" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02HW.Task2" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="locatingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02.locatingElements" />
+    <configuration name="tagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.tagName" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.WebOrderTask2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.tagName" />
         <item itemvalue="Application.webOrderTask" />
-        <item itemvalue="Application.locatingElements" />
-        <item itemvalue="Application.Amazon" />
-        <item itemvalue="Application.Maximize" />
       </list>
     </recent_temporary>
   </component>

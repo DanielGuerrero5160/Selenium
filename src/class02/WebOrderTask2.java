@@ -28,7 +28,7 @@ public class WebOrderTask2 {
           System.out.println("Title is not correct");
       }
       //logout
-        driver.findElement(By.linkText("Logout")).click();
+        driver.findElement(By.className("Logout")).click();
 
       //close browser
         driver.quit();

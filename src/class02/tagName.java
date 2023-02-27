@@ -14,5 +14,8 @@ public class tagName {
         //print all links in amazon.com
         driver.findElements(By.tagName("a"));
 
+
+
+
     }
 }
