@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b2338a-93eb-4226-adba-e015740f602a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class03/TagName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class03/XpathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class03HW/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TagName">
+  <component name="RunManager" selected="Application.Task">
     <configuration name="TagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class03.TagName" />
       <module name="SelemiumTest" />
@@ -59,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02HW.Task1" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03HW.Task" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02HW.*" />
+          <option name="PATTERN" value="class03HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task" />
         <item itemvalue="Application.TagName" />
         <item itemvalue="Application.XpathDemo" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.WebOrderTask2" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
