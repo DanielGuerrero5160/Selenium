@@ -51,7 +51,7 @@
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04.*" />
+          <option name="PATTERN" value="class04HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,18 +60,18 @@
       </method>
     </configuration>
     <configuration name="class04HWTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04HWTask1" />
+      <option name="MAIN_CLASS_NAME" value="class04HW.class04HWTask1" />
       <module name="SelemiumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="class04HWTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04.class04HWTask2" />
+      <option name="MAIN_CLASS_NAME" value="class04HW.class04HWTask2" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04.*" />
+          <option name="PATTERN" value="class04HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,7 +84,7 @@
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04.*" />
+          <option name="PATTERN" value="class04HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,7 +97,7 @@
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04.*" />
+          <option name="PATTERN" value="class04HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
