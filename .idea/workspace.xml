@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b2338a-93eb-4226-adba-e015740f602a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class04/class04HWTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class04HWTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/CheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/ConfirmationAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/MultiDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/WindowHandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +48,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.class04HWTask2">
-    <configuration name="CSSselector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04.CSSselector" />
+  <component name="RunManager" selected="Application.WindowHandle">
+    <configuration name="CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.CheckBoxes" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04HW.*" />
+          <option name="PATTERN" value="class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,19 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class04HWTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04HW.class04HWTask1" />
-      <module name="SelemiumTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="class04HWTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04HW.class04HWTask2" />
+    <configuration name="ConfirmationAlert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.ConfirmationAlert" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04HW.*" />
+          <option name="PATTERN" value="class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04.radioButtons" />
+    <configuration name="DropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.DropDown" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04HW.*" />
+          <option name="PATTERN" value="class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radioButtons2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04.radioButtons2" />
+    <configuration name="MultiDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.MultiDropDown" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04HW.*" />
+          <option name="PATTERN" value="class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.WindowHandle" />
+      <module name="SelemiumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.class04HWTask2" />
-        <item itemvalue="Application.class04HWTask1" />
-        <item itemvalue="Application.radioButtons" />
-        <item itemvalue="Application.radioButtons2" />
-        <item itemvalue="Application.CSSselector" />
+        <item itemvalue="Application.WindowHandle" />
+        <item itemvalue="Application.ConfirmationAlert" />
+        <item itemvalue="Application.MultiDropDown" />
+        <item itemvalue="Application.DropDown" />
+        <item itemvalue="Application.CheckBoxes" />
       </list>
     </recent_temporary>
   </component>
