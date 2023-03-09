@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b2338a-93eb-4226-adba-e015740f602a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class05/CheckBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class05/ConfirmationAlert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class05/DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class05/MultiDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class05/WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class06/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class06/ImplicitWait.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05/WindowHandle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WindowHandle">
-    <configuration name="CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05.CheckBoxes" />
-      <module name="SelemiumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ImplicitWait">
     <configuration name="ConfirmationAlert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class05.ConfirmationAlert" />
       <module name="SelemiumTest" />
@@ -75,12 +60,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05.DropDown" />
+    <configuration name="Frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class06.Frames" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class05.*" />
+          <option name="PATTERN" value="class06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class06.ImplicitWait" />
+      <module name="SelemiumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImplicitWait" />
+        <item itemvalue="Application.Frames" />
         <item itemvalue="Application.WindowHandle" />
         <item itemvalue="Application.ConfirmationAlert" />
         <item itemvalue="Application.MultiDropDown" />
-        <item itemvalue="Application.DropDown" />
-        <item itemvalue="Application.CheckBoxes" />
       </list>
     </recent_temporary>
   </component>

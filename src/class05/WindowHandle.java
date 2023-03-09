@@ -20,8 +20,16 @@ public class WindowHandle {
         //get window handle of all windows that have been opened
       Set<String> windowHandles=driver.getWindowHandles();
         for(String wh:windowHandles){
-            System.out.println(wh);
+          //witch the focus of the driver to help window
+            driver.switchTo().window(wh);
+            //Check the title of the window to which our focus is right now
+            String title=driver.getTitle();
+            if(title.equalsIgnoreCase("Privacy Policy – Privacy & Terms – Google")){
+                break;
+            }
         }
-
+        //to verify we switched to the right window
+        System.out.println(driver.getTitle());
+        driver.switchTo().window(parentWindow);
     }
 }
