@@ -16,11 +16,11 @@ public class Task2 {
         //switching to iframe
         driver.switchTo().frame(iframe);
         //find text in text box
-        WebElement text=driver.findElement(By.xpath("//p"));
+        WebElement textBox=driver.findElement(By.xpath("//p"));
         //clear text box in iframe
-       text.clear();
+       textBox.clear();
        //add new text to textbox
-       text.sendKeys("Hello World!");
+       textBox.sendKeys("Hello World!");
        //return to main page
        driver.switchTo().defaultContent();
     }

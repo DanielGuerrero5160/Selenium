@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b2338a-93eb-4226-adba-e015740f602a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class06HW/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class06HW/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07/ExplicitWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07/ExplicitWaitDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07/TablesSimple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class06HW/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class06HW/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +47,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="Frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class06.Frames" />
+  <component name="RunManager" selected="Application.TablesSimple">
+    <configuration name="ExplicitWaitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class07.ExplicitWaitDemo" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class06.*" />
+          <option name="PATTERN" value="class07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +61,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class06.ImplicitWait" />
+    <configuration name="ExplicitWaitDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class07.ExplicitWaitDemo2" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class06.*" />
+          <option name="PATTERN" value="class07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TablesSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class07.TablesSimple" />
+      <module name="SelemiumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05.WindowHandle" />
-      <module name="SelemiumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TablesSimple" />
+        <item itemvalue="Application.ExplicitWaitDemo2" />
+        <item itemvalue="Application.ExplicitWaitDemo" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.ImplicitWait" />
-        <item itemvalue="Application.Frames" />
-        <item itemvalue="Application.WindowHandle" />
       </list>
     </recent_temporary>
   </component>
