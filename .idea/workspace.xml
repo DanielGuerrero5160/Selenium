@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b2338a-93eb-4226-adba-e015740f602a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class07HW/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class07HW/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class07HW/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class07HW/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class07HW/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class08/TablesDynamic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class08/tablesDynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class08HW/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -48,13 +47,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task4">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07HW.Task1" />
+  <component name="RunManager" selected="Application.Task">
+    <configuration name="TablesDynamic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class08.TablesDynamic2" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class07HW.*" />
+          <option name="PATTERN" value="class08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07HW.Task2" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class08HW.Task" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class07HW.*" />
+          <option name="PATTERN" value="class08HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07HW.Task5" />
+    <configuration name="tablesDynamic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class08.tablesDynamic" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class07HW.*" />
+          <option name="PATTERN" value="class08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.TablesDynamic2" />
+        <item itemvalue="Application.tablesDynamic" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.class07HW.Task2" />
-        <item itemvalue="Application.class07HW.Task1" />
       </list>
     </recent_temporary>
   </component>
