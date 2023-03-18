@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b2338a-93eb-4226-adba-e015740f602a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class08/TablesDynamic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class08/tablesDynamic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class08HW/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/ActionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/Screenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/TablesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/jsexecuter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelemiumTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SelemiumTest.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +52,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task">
-    <configuration name="TablesDynamic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class08.TablesDynamic2" />
+  <component name="RunManager" selected="Application.Calendar">
+    <configuration name="ActionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09.ActionClass" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class08.*" />
+          <option name="PATTERN" value="class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class08HW.Task" />
+    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09.Calendar" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class08HW.*" />
+          <option name="PATTERN" value="class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07HW.Task3" />
+    <configuration name="DragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09.DragAndDrop" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class07HW.*" />
+          <option name="PATTERN" value="class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07HW.Task4" />
+    <configuration name="FileUpload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09.FileUpload" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class07HW.*" />
+          <option name="PATTERN" value="class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tablesDynamic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class08.tablesDynamic" />
+    <configuration name="jsexecuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09.jsexecuter" />
       <module name="SelemiumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class08.*" />
+          <option name="PATTERN" value="class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.TablesDynamic2" />
-        <item itemvalue="Application.tablesDynamic" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Calendar" />
+        <item itemvalue="Application.DragAndDrop" />
+        <item itemvalue="Application.FileUpload" />
+        <item itemvalue="Application.ActionClass" />
+        <item itemvalue="Application.jsexecuter" />
       </list>
     </recent_temporary>
   </component>
@@ -133,5 +138,20 @@
       <updated>1676940972195</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/class09/Calendar.java</url>
+          <line>11</line>
+          <properties class="class09.Calendar" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
